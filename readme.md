@@ -16,3 +16,4 @@ Experience in Github:___No___
 ------------- | -------------
 CSCI3250      | pass
 CSCI3251      | pass        
+![image](https://github.com/csci3251-2020/student-1155126918/blob/master/S30652.jpg)
