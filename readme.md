@@ -9,10 +9,8 @@ Experience in Github:___No___
               2. C++  
           2. java  
  ##  uncompleted project task ##
-- [ ] Github project  
-          - [x] #1  
-          - [ ] #2   
-          - [ ] #3
+- [ ] #2
+- [ ] #3
 ##  expected grade ##    
  course       | Grade
 ------------- | -------------
